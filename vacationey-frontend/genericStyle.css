@@ -1,0 +1,33 @@
+
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    margin-left: 20px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 5px 40px 5px 10px;
+}
+
+nav ul li a{
+    color: rgb(38, 0, 255);
+}
+
+nav{
+    background-color: rgb(253, 212, 151);
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 8em;
+    font-size: 160%;
+}
+
+header{
+    margin-left: 10px;
+    margin-right:10px ;
+}
+header img{
+    max-width: 100%;
+    height: auto;
+}
