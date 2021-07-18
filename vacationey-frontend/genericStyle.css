@@ -16,6 +16,10 @@ nav ul li a{
     color: rgb(38, 0, 255);
 }
 
+nav ul li{
+    color: red;
+}
+
 nav{
     background-color: rgb(253, 212, 151);
     margin: 10px 10px 10px 10px;
